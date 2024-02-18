@@ -27,7 +27,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robisonsantana&theme=dracula&show_icons=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robisonsantana&layout=donut-vertical&theme=midnight-purple)
 
 ## Onde me encontrar
 
