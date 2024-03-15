@@ -12,6 +12,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=1572B6)
 ![VBA](https://img.shields.io/badge/-VBA-333333?style=flat&logo=VBA&logoColor=1572B6)
 
